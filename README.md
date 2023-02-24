@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Tachikoma000
-- 👀 I’m interested in Python, LabVIEW, C, Data science, blockchain development
-- 🌱 Building blockchain data access infra
+- 👋 Hi,
+- 👀 Interested in Python,C, and data engineering
+- 🌱 Building blockchain data access infra at Playgrounds Analytics
+- Co-founder & CEO of Playgrounds Analytics
 
 <!---
 Tachikoma000/Tachikoma000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
