@@ -1,5 +1,3 @@
-- 👋 Hi,
-- 👀 Interested in Python,C, and data engineering
 - 🌱 Building blockchain data access infra at Playgrounds Analytics
 - Co-founder & CEO of Playgrounds Analytics
 
