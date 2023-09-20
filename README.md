@@ -1,5 +1,9 @@
-- 🌱 Building blockchain data access infra at Playgrounds Analytics
+🌱 Building blockchain data access infra at Playgrounds Analytics
+
 - Co-founder & CEO of Playgrounds Analytics
+- Ex-Research Engineer, Space Science and Instrumentation at Southwest Research Institute (SwRI)
+- Ex-Systems Research Engineer, Condensed matter nuclear physics at Texas Tech / Seashore Research
+
 
 <!---
 Tachikoma000/Tachikoma000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
