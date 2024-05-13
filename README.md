@@ -1,7 +1,7 @@
 🌱 Building AI at Playgrounds Analytics
 
 - Co-founder & CEO of Playgrounds Analytics
-- Founder of Open Fusion Electronics
+- Founder of Open Fusion Elextronics
 - Ex-Research Engineer, Space Science and Instrumentation at Southwest Research Institute (SwRI)
 - Ex-Systems Research Engineer, Condensed matter nuclear physics at Texas Tech / Seashore Research
 
